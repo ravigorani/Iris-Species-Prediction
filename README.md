@@ -1,14 +1,14 @@
-Machine Learning Project
+Machine Learning Project <br>
 
 This Model uses Logistic Regression for predicting the species.
 
-Libraries to be installed:
-    numpy
-    pandas
-    sklearn
-    pickle
+<b>Libraries to be installed:</b><br>
+    numpy <br>
+    pandas <br>
+    sklearn <br>
+    pickle <br>
     flask
 
-Steps to run the App:
-    1. Open this folder in Terminal
+<b>Steps to run the App:</b><br>
+    1. Open this folder in Terminal<br>
     2. Type "python app.py" and run the file

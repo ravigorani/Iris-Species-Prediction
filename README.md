@@ -1,6 +1,7 @@
 Machine Learning Project <br>
 
-This Model uses Logistic Regression for predicting the species.
+This Model uses Logistic Regression for predicting the species.<br>
+For Rendering HTML file Flask framework is used.<br>
 
 <b>Libraries to be installed:</b><br>
     numpy <br>
